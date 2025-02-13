@@ -1,0 +1,5 @@
+/home/gabriel-wsl/coding_challenges/memcached_server/bin/Release/net9.0/publish/memcached_server
+/home/gabriel-wsl/coding_challenges/memcached_server/bin/Release/net9.0/publish/memcached_server.dll
+/home/gabriel-wsl/coding_challenges/memcached_server/bin/Release/net9.0/publish/memcached_server.deps.json
+/home/gabriel-wsl/coding_challenges/memcached_server/bin/Release/net9.0/publish/memcached_server.runtimeconfig.json
+/home/gabriel-wsl/coding_challenges/memcached_server/bin/Release/net9.0/publish/memcached_server.pdb

@@ -1,0 +1,14 @@
+/home/gabriel-wsl/coding_challenges/memcached_server/bin/Debug/net9.0/memcached_server
+/home/gabriel-wsl/coding_challenges/memcached_server/bin/Debug/net9.0/memcached_server.deps.json
+/home/gabriel-wsl/coding_challenges/memcached_server/bin/Debug/net9.0/memcached_server.runtimeconfig.json
+/home/gabriel-wsl/coding_challenges/memcached_server/bin/Debug/net9.0/memcached_server.dll
+/home/gabriel-wsl/coding_challenges/memcached_server/bin/Debug/net9.0/memcached_server.pdb
+/home/gabriel-wsl/coding_challenges/memcached_server/obj/Debug/net9.0/memcached_server.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel-wsl/coding_challenges/memcached_server/obj/Debug/net9.0/memcached_server.AssemblyInfoInputs.cache
+/home/gabriel-wsl/coding_challenges/memcached_server/obj/Debug/net9.0/memcached_server.AssemblyInfo.cs
+/home/gabriel-wsl/coding_challenges/memcached_server/obj/Debug/net9.0/memcached_server.csproj.CoreCompileInputs.cache
+/home/gabriel-wsl/coding_challenges/memcached_server/obj/Debug/net9.0/memcached_server.dll
+/home/gabriel-wsl/coding_challenges/memcached_server/obj/Debug/net9.0/refint/memcached_server.dll
+/home/gabriel-wsl/coding_challenges/memcached_server/obj/Debug/net9.0/memcached_server.pdb
+/home/gabriel-wsl/coding_challenges/memcached_server/obj/Debug/net9.0/memcached_server.genruntimeconfig.cache
+/home/gabriel-wsl/coding_challenges/memcached_server/obj/Debug/net9.0/ref/memcached_server.dll
